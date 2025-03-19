@@ -1,0 +1,2 @@
+if a < 20
+    fprintf(%d less than 20\n)
