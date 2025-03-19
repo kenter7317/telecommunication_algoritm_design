@@ -1,0 +1,6 @@
+year = 1988:1:1994;
+selling = [8 12 20 22 18 24 27];
+plot(year, selling, '*r--', 'LineWidth', 2, 'Markersize', 12)
+xlabel('year(1988-1994)')
+ylabel('sell-distribution')
+grid on
